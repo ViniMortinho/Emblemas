@@ -1,4 +1,5 @@
 ![img/capa.png]
+
 # Badges
 
 ### 🤖 Inteligencia artificial e Bots
