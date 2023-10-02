@@ -1,6 +1,4 @@
-<p align=“center”> <img src=“img/capa.png” alt=“Logo do meu projeto” width=“200”/> </p>
-
-[![{badge_title}}](https://vsmarketplacebadges.dev/{badge_title}/{publishername.extensionname}.svg)](https://marketplace.visualstudio.com/items?itemName={publishername.extensionname})
+![img/capa.png]
 # Badges
 
 ### 🤖 Inteligencia artificial e Bots
