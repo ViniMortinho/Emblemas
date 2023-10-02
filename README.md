@@ -1,4 +1,4 @@
-![logo](img/capa.png)
+![(img/capa.png)]
 
 # Badges
 
