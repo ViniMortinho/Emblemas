@@ -1,4 +1,8 @@
-![img/capa.png]
+# Meu repositório
+
+![Imagem de capa](capa.png)
+
+Este é o meu repositório.
 
 # Badges
 
